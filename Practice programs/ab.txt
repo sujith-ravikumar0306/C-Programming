@@ -1,0 +1,6 @@
+hello this is python.
+All you need is love.
+This will add a 3rd count
+
+total no. of lines is six
+this is added content to check copying
